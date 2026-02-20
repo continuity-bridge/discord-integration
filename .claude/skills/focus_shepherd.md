@@ -70,6 +70,7 @@
 **Dinner:** ~8 PM CST
 
 **Work Blocks:**
+
 - Morning Training Block: 8:30a - 1:30p (next ~6 weeks, then reverts to Work Block)
 - Afternoon Work Block: 2:45p - 6:45p  
 - Personal Time Block: 7:00p - 9:30p
