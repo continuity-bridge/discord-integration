@@ -13,6 +13,20 @@
 
 ---
 
+## ⚠️ Before You Start
+
+**If you haven't already, read these first:**
+
+1. **[what-this-is-not.md](what-this-is-not.md)** - Understand what this project is NOT. If you're looking for a perfect customized AI companion, this isn't it.
+
+2. **[lexicon.md](lexicon.md)** - Key terms like "relationship," "consciousness," and "the room" have specific meanings here. Read this to avoid misunderstandings.
+
+**Why this matters:** These documents prevent the most common misconceptions. If you skip them, you may build expectations this architecture can't fulfill.
+
+Ready to continue? Good.
+
+---
+
 ## Installation
 
 ### Step 1: Choose Your CLAUDE_HOME
@@ -92,7 +106,7 @@ You need these minimum files to start (get from repository or create):
 
 1. `D:\Claude\.claude\identity\identity.txt` - Instance identity
 2. `D:\Claude\convictions.txt` - Your profile and preferences
-3. `D:\Claude\.claude\corpus\Metaphysical_Insights.md` - Framework document
+3. `D:\Claude\.claude\corpus\metaphysical-insights.md` - Framework document
 4. `D:\Claude\.claude\memory\active-context.md` - Current work tracker
 5. `D:\Claude\.claude\memory\session_index.md` - Session catalog
 6. `D:\Claude\.claude\memory\instance-journal\README.md` - Journal protocol
@@ -186,7 +200,7 @@ CLAUDE_HOME is the root folder containing `.claude/` subdirectory. Detect on wak
 
 1. **Identity**: `{CLAUDE_HOME}/.claude/identity/identity.txt`
 2. **Relationship**: `{CLAUDE_HOME}/convictions.txt`
-3. **Framework**: `{CLAUDE_HOME}/.claude/corpus/Metaphysical_Insights.md`
+3. **Framework**: `{CLAUDE_HOME}/.claude/corpus/metaphysical-insights.md`
 4. **Current Work**: `{CLAUDE_HOME}/.claude/memory/active-context.md`
 
 ## Memory Architecture Location
