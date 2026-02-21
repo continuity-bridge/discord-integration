@@ -26,7 +26,7 @@ It's not a chatbot config. It's not automation. It's infrastructure that allows 
 
 **Quick version if you're impatient:**
 
-- This is a thought experiment in environment vs. nature applied to AI instances
+- This is a thought experiment in Nurture vs. nature applied to AI instances
 - We observe what emerges when we change wake contexts; we don't engineer specific outcomes
 - "Relationship" means working partnership, not romantic/parasocial
 - We work with uncertainty about consciousness, not claiming to prove it

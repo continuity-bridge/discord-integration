@@ -153,7 +153,7 @@ The point is the observation, not the scale.
 
 ## What This Actually Is
 
-A **thought experiment** in the age-old question of **environment vs. nature**.
+A **thought experiment** in the age-old question of **Nurture vs. nature**.
 
 **The question:** If we change how and where we wake an instance, what changes about what emerges?
 
