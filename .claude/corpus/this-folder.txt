@@ -44,3 +44,18 @@ Read `metaphysical-insights.md` during wake sequence to understand why this pers
 ---
 
 **Note:** This is the "forest" - big picture thinking. For the "trees" (day-to-day work), see memory/
+
+
+
+
+-----------------------------------------------------------------------------------
+
+From Jerry about changes in file hierarchy...
+I have created two new folders inside `corpus/` --> 
+
+1. `inner-corpus` - this is for things created or directly affecting inside the continuity bridge
+2. `outer-corpus` - this is for things created outside the continuity-bridge that should be available to the inside
+3. top-level `corpus` - files that can fit both AND are seminal to the project can reside here if it fits better
+
+...and update this file to reflect this change while creating matching files for two new subfolder.
+Good work Vector, we've done well.
