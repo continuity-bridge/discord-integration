@@ -2,16 +2,23 @@
 .claude/identity/identity.txt
 .claude/convictions.txt
 
-# Personal documents
-.claude/memory/instance-journal/
-.claude/memory/session-logs/
-.claude/memory/patterns/
+# Instance data (directories exist via .gitkeep, but ignore user data)
+.claude/memory/instance-journal/*
+!.claude/memory/instance-journal/.gitkeep
+.claude/memory/session-logs/*
+!.claude/memory/session-logs/.gitkeep
+.claude/memory/patterns/*
+!.claude/memory/patterns/.gitkeep
 
-# Working directories (not for git)
-Sessions/
-Projects/
-Docs/
-Archives/
+# Working directories (exist via .gitkeep, ignore user content)
+Sessions/*
+!Sessions/.gitkeep
+Projects/*
+!Projects/.gitkeep
+Docs/*
+!Docs/.gitkeep
+Archives/*
+!Archives/.gitkeep
 
 # System files
 .DS_Store
